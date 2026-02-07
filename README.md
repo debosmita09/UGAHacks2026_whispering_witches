@@ -40,7 +40,7 @@ This being the third hackathon for us, we encountered a few problems in making t
 
 Public frameworks used: 
 
-Mixamo and Voice Chat API were some of the public frameworks used by us.
+Mixamo to get character designs and Voice Chat API to synthesize the NPC voices, were some of the public frameworks used by us.
 
 Accomplishments that we're proud of
 
