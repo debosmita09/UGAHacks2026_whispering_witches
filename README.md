@@ -36,7 +36,7 @@ We built Whispering Witches using the Unity game engine as our primary developme
 
 Problems we ran into:
 
-This being the third hackathon for us, we encountered a few problems in making this project. Faced with the limited timing of the hackathon, we were overwhelmed with the idea of working with Unity Engine to incorporate our AI models when some of our team members were more used with using Unreal Engine. We learned how to use that framework and pushed our limits to finalize the gameplay with a limited map size and fun magical objects. We initially faced trouble assembling the appropriate assets using Blender and displaying the walls in the game environment using brute force. Moreover, incorporating the API with AI was also one of the things we had issues working with for a long time.
+This being the third hackathon for us, we encountered a few problems in making this project. Faced with the limited timing of the hackathon, we were overwhelmed with the idea of working with Unity Engine to incorporate our AI models when some of our team members were more used with using Unreal Engine. We learned how to use that framework and pushed our limits to finalize the gameplay with a limited map size and fun magical objects. We initially faced trouble assembling the appropriate assets using Blender and displaying the walls in the game environment using brute force. Moreover, incorporating the API with AI was also one of the things we had issues working with for a long time. (PLS NOTE: DUE TO TIME CONSTRAINTS WE COULD NOT IMPLEMENT THE MAGICAL POTIONS IN THIS VERSION)
 
 Public frameworks used: 
 
